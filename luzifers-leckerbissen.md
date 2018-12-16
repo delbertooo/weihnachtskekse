@@ -1,4 +1,4 @@
-# Luzifers Weihnachtskekse
+# Luzifers Leckerbissen
 
 Diese Kekse basieren auf [Lucia´s Weihnachtsplätzchen](https://www.chefkoch.de/rezepte/419161132483821/Lucia-s-Weihnachtsplaetzchen.html).
 
