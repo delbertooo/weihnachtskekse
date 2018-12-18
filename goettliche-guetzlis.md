@@ -1,4 +1,4 @@
-# Mephistos Maulstopfer
+# Göttliche Gützlis
 
 Diese Kekse basieren auf [Basler Leckerli](https://www.kochbar.de/rezept/513025/Basler-Leckerli.html).
 
