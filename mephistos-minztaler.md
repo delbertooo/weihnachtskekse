@@ -1,4 +1,4 @@
-# After Eight
+# Mephistos Minztaler
 
 Diese Kekse basieren auf [Schoki - After Eight - Kekse](https://www.chefkoch.de/rezepte/1002191205433646/Schoki-After-Eight-Kekse.html).
 
