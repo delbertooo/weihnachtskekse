@@ -2,6 +2,16 @@
 
 Diese Kekse basieren auf [Lucia´s Weihnachtsplätzchen](https://www.chefkoch.de/rezepte/419161132483821/Lucia-s-Weihnachtsplaetzchen.html).
 
+## Zutaten für eine Portion
+
+|  Menge | Zutat                |
+|-------:|----------------------|
+|  250 g | Butter               |
+|  100 g | Puderzucker          |
+| 1 Pck. | Vanillezucker        |
+|  250 g | Mehl                 |
+|  100 g | Vanillepuddingpulver |
+
 ## Varianten
 
 Neben der klassischen Vanille-Variante haben sich auch weitere Varianten etabliert.
@@ -40,3 +50,12 @@ Es ist keine Lebensmittelfarbe nötig, da die Marmelade stark färbt.
 * Puddingsorte variiert Mehlmenge; gerade bei den Zusätzen in der Erdbeervariante ist dort viel Mehl notwendig
 * Eine Portion ergibt ca. drei Bleche
 * Pudding-Pulver muss auf ca. 100g kommen
+
+## Zubereitung
+
+Weiche **Butter**, **Puderzucker** und **Vanillezucker** gründlich verrühren. Nach und nach das gesiebte **Mehl** und das **Puddingpulver** unterrühren.
+
+Aus dem Teig Kugeln formen. Kugeln auf das mit Backpapier belegte Blech setzen, mit der Gabel flach drücken, sodass ein Muster entsteht.
+
+Bei 180 - 200 °C Ober-/Unterhitze etwa 8 - 12 Minuten backen. Die Plätzchen sollten hell bleiben.
+Nach dem Backen ganz vorsichtig vom Blech nehmen und auf einem Kuchengitter auskühlen lassen.
