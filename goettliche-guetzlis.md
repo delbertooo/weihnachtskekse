@@ -2,6 +2,26 @@
 
 Diese Kekse basieren auf [Basler Leckerli](https://www.kochbar.de/rezept/513025/Basler-Leckerli.html).
 
+## Zutaten für 60 Portionen
+
+|   Menge | Zutat                    |
+|--------:|--------------------------|
+|   375 g | Honig (flüssig)          |
+|   175 g | Zucker (braun)           |
+|   250 g | Mandelstifte             |
+|    50 g | Zitronat (fein gehackt)  |
+|    50 g | Orangeat (fein gehackt)  |
+|   375 g | Mehl                     |
+| 1 Prise | Salz                     |
+|       1 | Zitrone, Abrieb          |
+|    15 g | Lebkuchengewürz          |
+|    1 TL | Pottasche                |
+|    4 EL | Kirschwasser             |
+|   125 g | Puderzucker              |
+|    2 EL | Zitronensaft             |
+|      60 | Mandeln (ganz, geschält) |
+
+
 ## Hinweise
 
 * Flüssigen Honig verwenden, z-B. Langnese Sommerblüte goldklar
