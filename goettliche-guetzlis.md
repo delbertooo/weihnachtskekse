@@ -13,12 +13,11 @@ Ein Gebäck, was fest, aber keineswegs trocken ist. Wie alle Weihnachtsplätzche
 |    50 g | Orangeat (fein gehackt)  |
 |   375 g | Mehl                     |
 | 1 Prise | Salz                     |
-|       1 | Zitrone, Abrieb          |
+|       1 | Zitrone (Abrieb & Saft)  |
 |    15 g | Lebkuchengewürz          |
 |    1 TL | Pottasche                |
 |    4 EL | Kirschwasser             |
 |   125 g | Puderzucker              |
-|    2 EL | Zitronensaft             |
 |      60 | Mandeln (ganz, geschält) |
 
 
