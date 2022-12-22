@@ -2,6 +2,20 @@
 
 Diese Kekse basieren auf [Schoki - After Eight - Kekse](https://www.chefkoch.de/rezepte/1002191205433646/Schoki-After-Eight-Kekse.html).
 
+## Zutaten für eine Portion
+
+|      Menge | Zutat                                    |
+|-----------:|------------------------------------------|
+|       85 g | Butter                                   |
+|      110 g | Zucker, braun                            |
+|      15 ml | Wasser                                   |
+|      170 g | Schokolade, halbbitter                   |
+|          1 | Ei(er)                                   |
+|      160 g | Mehl                                     |
+|     1 Pck. | Backpulver                               |
+| 1 Prise(n) | Salz                                     |
+|         10 | Schoko-Minz-Täfelchen, z.B. After Eight  |
+
 ## Hinweise
 
 * Getrennt von anderen Keksen lagern, sonst schmecken alle nach After Eight.
