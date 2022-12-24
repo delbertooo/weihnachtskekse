@@ -46,5 +46,5 @@ Den Teig zu einer Platte in Blechgröße ausrollen (ist etwas mühsam). Danach d
 
 Ofen auf 175° vorheizen. Blech auf mittlere Einschubleiste und den Teig 25 Min. backen. Umluft 150° und 20 Min. Sofort heraus nehmen und noch heiß in Stücke schneiden. Abkühlen lassen.
 
-**Puderzucker**, 1 EL **Kirschwasser** und **Zitronensaft** verrühren und die Plätzchen damit bestreichen. Mit je einer **Mandel** belegen und trocknen lassen.
+**Puderzucker**, 1 EL **Kirschwasser** und 2 EL **Zitronensaft** verrühren und die Plätzchen damit bestreichen. Mit je einer **Mandel** belegen und trocknen lassen.
 
